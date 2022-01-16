@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChahatGoel
+- 👋 Hi, I’m ChahatGoel
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity Game development, Python, C#
 - 💞️ I’m looking to collaborate on Game Development
